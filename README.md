@@ -14,4 +14,4 @@ For the camera output compile and run with:
 cargo run --release
 ```
 
-The debug version prints only X Y coordinates and camera yaw just for debugging.
+The debug version prints only X Y coordinates and camera yaw for debugging.
